@@ -22,7 +22,7 @@ export function Credentials() {
                 <p className="text-muted-foreground">
                IOC recovery is approved for PBO Number:
                 </p>{" "}
-                <div className="font-extrabold  text-lg text-black">
+                <div className="font-extrabold  text-lg text-center">
                 930076307
                 </div>
               </div>
@@ -38,7 +38,7 @@ export function Credentials() {
                 <p className="text-muted-foreground">
                   Our team is registered to practice.
                 </p>{" "}
-                <div className="font-extrabold  text-lg text-black">
+                <div className="font-extrabold  text-lg text-center">
                   250-556 NPO
                 </div>
               </div>
@@ -52,10 +52,10 @@ export function Credentials() {
               <div>
                 <h3 className="text-lg font-medium">Experience</h3>
                 <p className="text-muted-foreground">
-                  We have been changing lives since 2020
+                  We have been changing lives since 
                 </p>
                 <div className="font-extrabold  text-lg text-center">
-                  4+ years
+                  2020
                 </div>
               </div>
             </div>
